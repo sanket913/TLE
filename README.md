@@ -31,3 +31,5 @@ A full-stack web application to track and manage students' performance in compet
 - **Version Control**: Git + GitHub
 
 ---
+
+Demo Video: https://drive.google.com/drive/folders/1MRThWiYVlFcwz-g1TVlR2Zo7JBtoslSk?usp=sharing
